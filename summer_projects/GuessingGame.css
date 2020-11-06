@@ -1,0 +1,45 @@
+h1{
+    color: peachpuff;
+    text-align: center;
+}
+h2{
+    color: peachpuff;
+    text-align: center;
+}
+h3{
+    color:gold;
+}
+h4{
+    text-align: center;
+    color: peachpuff;
+}
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 3px 27px;
+    background-color:#40606D;
+    color:white;
+    font-size: 25px;
+    
+}
+
+li {
+     display: inline;
+   
+    
+}
+
+.navbutton{
+    padding: 3px 27px;
+    margin: 11px 18x;
+    background-color:#40606D ;
+    color:peachpuff;
+    font-size: 25px;
+     
+}
+body {
+    background-color:#40606D;
+}
+#active{
+    background-color:white ;
+}
